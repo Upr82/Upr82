@@ -21,4 +21,6 @@
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 [![codewars](https://www.codewars.com/users/Upr82/badges/small)](https://www.codewars.com/users/Upr82)   
