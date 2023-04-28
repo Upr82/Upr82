@@ -23,4 +23,6 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upr82&layout=compact)](https://github.com/Upr82/github-readme-stats)
+
 [![codewars](https://www.codewars.com/users/Upr82/badges/small)](https://www.codewars.com/users/Upr82)   
