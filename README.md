@@ -18,3 +18,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Upr82)   
